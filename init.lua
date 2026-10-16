@@ -1,0 +1,8 @@
+require("options")
+require("keymaps")
+require("autocmds")
+require("plugins.appereance")
+require("plugins.filenav")
+require("plugins.lsp")
+require("plugins.syntax")
+require("plugins.diagnostics")
